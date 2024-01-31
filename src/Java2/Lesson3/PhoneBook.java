@@ -13,7 +13,6 @@ public class PhoneBook {
         add(tb, "80274992642", "Monkey");
         add(tb, "87463772832", "Negmetov");
         add(tb, "89453217698", "Gorilla");
-        add(tb, "89453217698", "Monkey");
 
         System.out.println(tb);
 
